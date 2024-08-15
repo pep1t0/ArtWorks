@@ -1061,11 +1061,11 @@
 			]
 		},
 		"contracts/ArtWorks.sol": {
-			"keccak256": "0x81d25c6beec9ae19ba490003cb27517cf30a586771733e61b5c43db182f9288f",
+			"keccak256": "0x8c9977241909a0dcc39d9a203af41d261ebb7a5daf12f26554928f29d57c461f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5fd109960a8cc06ae82f0802056f20a279cc055c5a6d3de45bd09f2ea5f38172",
-				"dweb:/ipfs/QmPJ3k4TzMPk9ipD14bp5zY7vr9vmxtoFNe6MnmsL5C9qD"
+				"bzz-raw://516b60e074d737f66a51ebc955753ec1a8cdb25ccf09b238acba750416b5fedf",
+				"dweb:/ipfs/QmZpZdAuoE78ENwcUjZPgZ458bsadkxV4FW5d5jUk5cLec"
 			]
 		}
 	},
